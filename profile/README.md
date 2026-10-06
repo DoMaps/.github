@@ -1,13 +1,13 @@
 # DoMaps
 
-**Maps that look like they belong on your website.** **Free to start · 10,000 map views/month**
+**DoMaps does maps that match your website.** **Free up to 10,000 map views/month**
 
 Paste your website's URL and DoMaps creates a map that matches your site's colors, fonts, and dark mode. Ready to embed in about 3 minutes.
 
 ### Built for your site
 
 - **Matches your site** — Colors, fonts, and dark mode
-- **No cookies** — No cookie banner just for your map
+- **No cookies** — No cookie banner to see the map
 - **No API keys** — Nothing to configure
 - **Predictable pricing** — Hard monthly view limits
 - **Always up to date** — Edit your map once and changes update automatically
