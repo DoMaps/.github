@@ -21,4 +21,9 @@ Paste your website's URL and DoMaps creates a map that matches your site's color
 
 [Make a map](https://domaps.app) · [Documentation](https://domaps.app/docs) · [Plans](https://domaps.app/pricing)
 
+Resources:
+- [Guides](https://domaps.app/guides): step-by-step for each site builder
+- [Learn](https://domaps.app/learn): maps, cookies and privacy explained
+- [Compare](https://domaps.app/compare): DoMaps next to Google Maps and others
+
 
